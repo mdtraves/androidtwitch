@@ -1,0 +1,49 @@
+body {
+  background-image: url("https://www.gamerbolt.com/wp-content/uploads/2016/10/twitch.jpeg");
+  
+  background-position: top left;
+    background-repeat: no-repeat;
+  font-family: abel;
+  font-size: 24px;
+  color: white;
+}
+
+.main {
+  background-color: rgba(0,0,0,0.75);
+    margin: 50px;
+    border-radius: 30px
+}
+
+#header {
+  margin: 50px;
+  padding: 20px
+}
+
+.results p {
+  margin:  50px 0px;
+  line-height: 100px;
+    color: red;
+}
+
+img {
+max-height: 100px;  
+}
+
+#userInput {
+    display: block;
+    color: purple;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px
+    
+}
+
+#userOutput {
+     display: block;
+    margin: 20px auto;
+}
+
+h3 {
+    font-size: .8em
+}
